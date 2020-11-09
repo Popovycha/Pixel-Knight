@@ -1,0 +1,2 @@
+# Pixel-Knight
+Have you ever thought that you can be a knight and dive in the time of middle age? No? Well this is why our team gives an exclusive chance to get there! Pixel-Knight is a great project where members of our group were working in the last three weeks. This game shows our intentions to build an interesting one level platformer game to show how the atmosphere can put a player in a dungeon based game environment in a 2D retro themed world.
